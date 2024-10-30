@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Harvinder Singh from Punjab<br><br>- 🔭 I’m working as Web Developer - <a href="https://thehawktech.com/"> The Hawk Tech</a><br>- 📚 I'm currently learning Next js, PHP frameworks</p>
+<p align="left">I'm Harvinder Singh from Punjab<br><br>- 🔭 I’m working as Web Developer - <a href="https://thehawktech.com/"> The Hawk Tech</a><br>- 📚 I'm currently learning and experience with Next js, PHP frameworks, HTML5, CSS, Javascript, Wordpress and Shopify</p>
 
 ###
 
